@@ -1,0 +1,15 @@
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\obj\Debug\net6.0\sobreCargaMetodos.csproj.AssemblyReference.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\obj\Debug\net6.0\sobreCargaMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\obj\Debug\net6.0\sobreCargaMetodos.AssemblyInfoInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\obj\Debug\net6.0\sobreCargaMetodos.AssemblyInfo.cs
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\obj\Debug\net6.0\sobreCargaMetodos.csproj.CoreCompileInputs.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\bin\Debug\net6.0\sobreCargaMetodos.exe
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\bin\Debug\net6.0\sobreCargaMetodos.deps.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\bin\Debug\net6.0\sobreCargaMetodos.runtimeconfig.json
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\bin\Debug\net6.0\sobreCargaMetodos.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\bin\Debug\net6.0\sobreCargaMetodos.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\obj\Debug\net6.0\sobreCargaMetodos.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\obj\Debug\net6.0\refint\sobreCargaMetodos.dll
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\obj\Debug\net6.0\sobreCargaMetodos.pdb
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\obj\Debug\net6.0\sobreCargaMetodos.genruntimeconfig.cache
+C:\Users\lgonzalez\Documents\SelinSoftware-personal\cursos\Progrmación Orientada O\sobreCargaMetodos\obj\Debug\net6.0\ref\sobreCargaMetodos.dll
